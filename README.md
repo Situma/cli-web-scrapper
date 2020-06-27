@@ -1,4 +1,4 @@
-# cli-web-scrapper
+# CLI Web Scrapper
 This project's purpose was to learn;
   
 - Python Web Scrapping
